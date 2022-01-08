@@ -6,7 +6,7 @@
 
 
 
-# What is SOME/IP in Automotive AUTOSAR?
+# What is SOME/IP ( Service-oriented Middleware over IP) in Automotive AUTOSAR?
 
 SOME/IP is an automotive middleware solution that is used for control messages over [Ethernet](https://z-timeline.com/basics-of-ethernet-tutorial-a-definitive-guide/). SOME/IP is short for Scalable Service-Oriented Middleware over IP. It supports remote procedure calls, event notifications in the underlying serialization wire format. It is a service-oriented architecture meaning, a sender only sends data when atleast one receiver in the network needs the data. The advantage of this procedure is that the network and all connected nodes are not loaded with unnecessary data.
 
@@ -29,6 +29,15 @@ Ethernet emerged as the best fit considering the changing communication requirem
 To address these needs **SOME/IP** was created.
 
 ## What are the features of SOME/IP?
+
+### Some Key Features of SOME/IP:
+
+1. **Serialization:** It is the way the data is represented in a data unit, which can be either a UDP or a TCP message. When data is transmitted over network, the ECU reading the data might have a different architecture, operating system, etc. inter-operability can be ensured only if there is a mechanism for a consistent data transmission. SOME/IP allows for some serialization.
+2. **Remote Procedure Call (RPC):** This is a method for remote invocation of functions as requested by the Client ECU. It is a data exchange method employed by the client ECU when it requires some data from a server. An RPC may or may not have a return value, i.e., the client can ask for data as a response or simply call a function to perform some task at the server-end.
+3. **Service Discovery:** The service discovery (SD) protocol is the backbone of SOME/IP concept. In a service-oriented architecture, it is imperative for the service (functional entity- methods, events or fields) to be discoverable. The SOME/IP SD protocol manages this aspect- whether to offer a service or stop it from being available.
+4. **Publish/Subscribe:** A client can subscribe to the content of the server so that it can receive the updated data from the server dynamically. Publish/subscribe feature of SOME/IP deduces which data (event/field) a client needs and shares the same. Pub/Sub is managed by SOME/IP SD.
+
+So far, we have understood the concept of service-oriented architecture and the role of SOME/IP in its implementation. We will now delve a little deeper to understand how exactly SOME/IP and Ethernet enable the inter-ECU Client/Server communication. [source](https://www.embitel.com/blog/embedded-blog/how-some-ip-enables-service-oriented-architecture-in-ecu-network)
 
 #### SOME/IP Header:
 
