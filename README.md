@@ -41,3 +41,10 @@ https://www.autosar.org/standards/adaptive-platform/
 1. https://www.etas.com/en/company/news-archive-2018-the-adaptive-platform-a-new-autosar.php
 2. https://www.methodpark.de/blog/autosar-part-1-the-classic-platform/
 3. https://www.btc-es.de/en/blog/autosar-what-every-function-developer-should-know.html
+4. https://www.hitex.com/tools-components/software-components/mcal-and-complex-drivers/mcal-drivers-for-autosar-projects
+5. https://www.researchgate.net/figure/Evolution-phases-and-main-releases-of-AUTOSAR_fig1_321940604
+6. https://blogs.mathworks.com/simulink/2020/12/22/configuring-a-simulink-model-for-autosar/?from=cn&doing_wp_cron=1641792578.6816101074218750000000
+7. http://software-dl.ti.com/hercules/hercules_docs/latest/hercules/AutoSAR_MCAL/AutoSAR_MCAL.html
+8. https://automotiveembeddedsite.wordpress.com/why-autosar-what-it-is/
+9. https://circuitdigest.com/article/understanding-autosar-and-its-architecture
+
