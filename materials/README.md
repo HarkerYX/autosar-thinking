@@ -1,0 +1,1 @@
+https://inf.mit.bme.hu/sites/default/files/materials/category/kateg%C3%B3ria/oktat%C3%A1s/v%C3%A1laszthat%C3%B3-t%C3%A1rgyak/kritikus-be%C3%A1gyazott-rendszerek/11/AutosarandArinc653.pdf
