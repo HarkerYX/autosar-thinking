@@ -47,4 +47,5 @@ https://www.autosar.org/standards/adaptive-platform/
 7. http://software-dl.ti.com/hercules/hercules_docs/latest/hercules/AutoSAR_MCAL/AutoSAR_MCAL.html
 8. https://automotiveembeddedsite.wordpress.com/why-autosar-what-it-is/
 9. https://circuitdigest.com/article/understanding-autosar-and-its-architecture
+10. https://www.quora.com/Why-is-a-socket-adaptor-needed-in-Autosar
 
