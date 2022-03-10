@@ -7,3 +7,5 @@ https://www.btc-es.de/en/blog/autosar-what-every-function-developer-should-know.
 
 
 https://hpi.de/fileadmin/user_upload/fachgebiete/giese/Ausarbeitungen_AUTOSAR0809/NicoNaumann_RTE_VFB.pdf
+
+https://asat.journals.ekb.eg/article_23007_ce32631f30761c4ea91165bce2eb9ae3.pdf
