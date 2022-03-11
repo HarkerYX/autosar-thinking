@@ -69,4 +69,8 @@ the latest release https://www.autosar.org/fileadmin/user_upload/standards/found
 ## Reference
 
 1. https://z-timeline.com/what-is-some-ip-in-autosar/
+<<<<<<< HEAD
 1. https://www.intrepidcs.net.cn/wp-content/uploads/2019/05/110._SOME-IP_TD_USA_2019.pdf
+=======
+2. https://forums.ni.com/t5/LabVIEW-Automotive-Ethernet/SOME-IP-Serialization/td-p/3845830
+>>>>>>> 5e2160619c1073652cc1f2c786b6eda8108aa53c
